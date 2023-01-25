@@ -1,0 +1,115 @@
+[
+    {
+        "question": "Combien y a t-il de merveilles du monde ?",
+        "image":"merveilles-du-monde.jpg",
+        "alt":"merveilles du monde",
+        "explication":"La pyramide de Khéops, Les jardins suspendus, La statue Chryséléphantine de Zeus, Le tambeau de Mausole, Le temple d'Artemis, Le phare d'Alexandrie",
+        "answers":[
+            {
+                "statement":"7 merveilles",
+                "state":"correct"
+            },
+            {
+                "statement":"9 merveilles",
+                "state":"incorrect"
+            },
+            {
+                "statement":"12 merveilles",
+                "state":"incorrect"
+            },
+            {
+                "statement":"8 merveilles",
+                "state":"incorrect"
+            }
+        ]
+    },
+    {
+        "question": "Où se trouvait le temple d'Artémis ?",
+        "image":"temple-artemis.jpg",
+        "alt":"temple artemis",
+        "explication":"La plus belle des sept merveilles du monde",
+        "answers":[
+            {
+                "statement":"à Halicarnasse (dans la Turquie actuelle)",
+                "state":"incorrect"
+            },
+            {
+                "statement":"à Ephèse (dans la Turquie actuelle)",
+                "state":"correct"
+            },
+            {
+                "statement":"en Elide (Grèce actuelle",
+                "state":"incorrect"
+            },
+            {
+                "statement":"en Mésopotamie (Irak actuel)",
+                "state":"incorrect"
+            }
+        ]
+    },
+    {
+        "question": "Où se trouvait les jardin suspendus ?",
+        "explication":"C'est Nabuchodonosor qui a fait construire ces jardin pour son épouse Amytis de Hédès",
+        "image":"jardins-suspendus.jpg",
+        "alt":"jardins suspendus",
+        "answers":[
+            {
+                "statement":"à Olympe",
+                "state":"incorrect"
+            },
+            {
+                "statement":"sur l'île de Pharos",
+                "state":"incorrect"
+            },
+            {
+                "statement":"à Babylone",
+                "state":"correct"
+            },
+            {
+                "statement":"en Crète",
+                "state":"incorrect"
+            }
+        ]
+    },
+    {
+        "question": "Quelle pyramide égyptienne fait partie des sept Merveilles du Monde ?",
+        "explication":"Elle était considérée dans l'Antiquité comme la première des Sept Merveilles du monde. Seule des Sept Merveilles du monde à avoir survécu jusqu'à nos jours.",
+        "image":"la-pyramide.jpg",
+        "alt":"la pyramide",
+        "answers":[
+            {
+                "statement":"La pyramide Rouge",
+                "state":"incorrect"
+            },
+            {
+                "statement":"La pyramide Képhren",
+                "state":"incorrect"
+            },
+            {
+                "statement":"La pyramide Djéser",
+                "state":"incorrect"
+            },
+            {
+                "statement":"La pyramide Khéops",
+                "state":"correct"
+            }
+        ]
+    },
+    {
+        "question": "Le Collosse de Rhodes a été érigé en l'honneur de Cronos ?",
+        "explication":"Aprés avoir résisté au siége de Démétrios, les Rhodiens ont érigé une statue en l'honneur de Hélios, dieu grec du soleil et protecteur de l'île de Rhodes",
+        "image":"colosse-de-rhodes.jpg",
+        "alt":"colosse de rhodes",
+        "answers":[
+            {
+                "statement":"Vrai",
+                "state":"incorrect"
+            },
+            {
+                "statement":"Faux",
+                "state":"correct"
+            }
+            
+        ]
+    }
+]
